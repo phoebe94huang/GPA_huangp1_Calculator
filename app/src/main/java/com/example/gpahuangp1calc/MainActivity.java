@@ -68,7 +68,7 @@ public class MainActivity extends AppCompatActivity {
                     || g3.getText().toString().equals("") || g4.getText().toString().equals("") ||
                     g5.getText().toString().equals("")) {
                 // Does not accept empty fields --> Prompts user to enter grade in all fields
-                result.setText("Enter grades in all fields");
+                Toast.makeText(getApplicationContext(), "Please enter grades in all fields", Toast.LENGTH_LONG).show();
                 // "If" loops below changes entry field to the color red if empty
                 // Error message in entry field if empty
                 if (g1.getText().toString().equals("")) {
