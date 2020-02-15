@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GPA [huangp1] Calculator</string>
+    <string name="gpa_calculator">GPA Calculator</string>
+    <string name="grade_1">Grade 1:</string>
+    <string name="grade_2">Grade 2:</string>
+    <string name="grade_3">Grade 3:</string>
+    <string name="grade_4">Grade 4:</string>
+    <string name="grade_5">Grade 5:</string>
+    <string name="final_gpa">Final GPA:</string>
+    <string name="compute_gpa">Compute GPA</string>
+    <string name="enter_grade_1">Enter grade 1</string>
+    <string name="enter_grade_2">Enter grade 2</string>
+    <string name="enter_grade_3">Enter grade 3</string>
+    <string name="enter_grade_4">Enter grade 4</string>
+    <string name="enter_grade_5">Enter grade 5</string>
+</resources>
